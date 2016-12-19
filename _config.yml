@@ -8,8 +8,8 @@
 # Site settings
 title: Lizard Room
 description: Reseach Home of the Lizard Room Reseach Group
-baseurl: "/JekyllOrg" # the subpath of your site, e.g. /blog
-url: "https://damianeoloan.github.io" # the base hostname & protocol for your site
+baseurl: "/lizardroom" # the subpath of your site, e.g. /blog
+url: "https://geneva.github.io/lizardroom/" # the base hostname & protocol for your site
 
 # Profiles
 facebook_username: randomexample
